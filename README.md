@@ -1,4 +1,4 @@
-[![MasterHead](https://d18ajvmvo0vo4a.cloudfront.net/wp-content/uploads/2018/11/website-gif.gif)]
+![MasterHead](https://d18ajvmvo0vo4a.cloudfront.net/wp-content/uploads/2018/11/website-gif.gif)
 <h1 align="center">Hi 👋, I'm Seif eddine</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" Seif2k.Coding" width="400" />
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/seif-edfine-akkouche-70b19622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seif-edfine-akkouche-70b19622a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/seif-eddine-akkouche-70b19622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seif-edfine-akkouche-70b19622a/" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/seif.hiphop2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/seif.hiphop2/" height="30" width="40" /></a>
 </p>
 
